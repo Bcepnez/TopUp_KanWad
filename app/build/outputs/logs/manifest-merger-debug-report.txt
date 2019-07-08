@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\043dc40dfe2044d41afe579f3d1d947c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\8ea8da14120d2a5b0a8d218d5bd936cf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\7e3c1cc6f72a71a007a0533176925ae1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\a7d9ae80e688e54495af4b2e7dcbab10\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\ff179d29fc978591e065d7919c1252cd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c36f8d9e652fc27c53918dcb42031027\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\0b2401b796828022d5401017b8a90c05\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\310ea622f4005eeee289feb91d4e715e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\43bbdfd33f048c4000e3d11118a86366\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\517d7928a26ad982a13c9461b5b93e9c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\3c48dfdba6f468a7270882342d34c6cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\fa425ca6db8641d94e86689f45c9c6fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\db650915772c3ef3e518dc0fb642732d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\0106b3a5994ec154f632af49380ad545\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\df5a6b7de8951228556efc4babc6599e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\8211608a604129a7dd67bcce8ec153da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\e90aa8f1dc8432b78ba1c6608e000af2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\1d2b64e916b1b770cda2831f152e3e24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\d22744495daa6d347cc06c677efa37e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\25096857b5bad16a99d4b56fd5fc5d9b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c6fb015397d4d4ca31865c3db4d504f9\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\5e9ec43bf0154d63dd134afcefc7ac09\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c0f02b8b02e53babc1b12095f5af9a94\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\d19dc4c13ac3bd786f6ad134de0e88d0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\e7454ec12c56acdae1d6d6c9255637de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\6fb02eeb0b4281dc3ee4af74add345e2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\16ec9a144a95db65f82a1b7fefc1c7c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\42ad6bb21fc5505ec1d92c88d8232e84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\ca5adffb569880e7009b2f18f64a57cc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\217434c3176b1ecfa7344345aed0aa33\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\73009461331d1f72f14d503c875c0caa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\575beb2d71f81752fb3d4fc94c933fd3\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\8ea8da14120d2a5b0a8d218d5bd936cf\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\8ea8da14120d2a5b0a8d218d5bd936cf\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\7e3c1cc6f72a71a007a0533176925ae1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\7e3c1cc6f72a71a007a0533176925ae1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\a7d9ae80e688e54495af4b2e7dcbab10\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\a7d9ae80e688e54495af4b2e7dcbab10\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\ff179d29fc978591e065d7919c1252cd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\ff179d29fc978591e065d7919c1252cd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c36f8d9e652fc27c53918dcb42031027\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c36f8d9e652fc27c53918dcb42031027\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\25096857b5bad16a99d4b56fd5fc5d9b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\25096857b5bad16a99d4b56fd5fc5d9b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c6fb015397d4d4ca31865c3db4d504f9\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c6fb015397d4d4ca31865c3db4d504f9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\25096857b5bad16a99d4b56fd5fc5d9b\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.example.rabbittopup.MainActivity
+ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\043dc40dfe2044d41afe579f3d1d947c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\043dc40dfe2044d41afe579f3d1d947c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\8ea8da14120d2a5b0a8d218d5bd936cf\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\8ea8da14120d2a5b0a8d218d5bd936cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\7e3c1cc6f72a71a007a0533176925ae1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\7e3c1cc6f72a71a007a0533176925ae1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\a7d9ae80e688e54495af4b2e7dcbab10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\a7d9ae80e688e54495af4b2e7dcbab10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\ff179d29fc978591e065d7919c1252cd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\ff179d29fc978591e065d7919c1252cd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c36f8d9e652fc27c53918dcb42031027\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c36f8d9e652fc27c53918dcb42031027\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\0b2401b796828022d5401017b8a90c05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\0b2401b796828022d5401017b8a90c05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\310ea622f4005eeee289feb91d4e715e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\310ea622f4005eeee289feb91d4e715e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\43bbdfd33f048c4000e3d11118a86366\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\43bbdfd33f048c4000e3d11118a86366\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\517d7928a26ad982a13c9461b5b93e9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\517d7928a26ad982a13c9461b5b93e9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\3c48dfdba6f468a7270882342d34c6cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\3c48dfdba6f468a7270882342d34c6cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\fa425ca6db8641d94e86689f45c9c6fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\fa425ca6db8641d94e86689f45c9c6fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\db650915772c3ef3e518dc0fb642732d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\db650915772c3ef3e518dc0fb642732d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\0106b3a5994ec154f632af49380ad545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\0106b3a5994ec154f632af49380ad545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\df5a6b7de8951228556efc4babc6599e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\df5a6b7de8951228556efc4babc6599e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\8211608a604129a7dd67bcce8ec153da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\8211608a604129a7dd67bcce8ec153da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\e90aa8f1dc8432b78ba1c6608e000af2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\e90aa8f1dc8432b78ba1c6608e000af2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\1d2b64e916b1b770cda2831f152e3e24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\1d2b64e916b1b770cda2831f152e3e24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\d22744495daa6d347cc06c677efa37e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\d22744495daa6d347cc06c677efa37e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\25096857b5bad16a99d4b56fd5fc5d9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\25096857b5bad16a99d4b56fd5fc5d9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c6fb015397d4d4ca31865c3db4d504f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c6fb015397d4d4ca31865c3db4d504f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\5e9ec43bf0154d63dd134afcefc7ac09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\5e9ec43bf0154d63dd134afcefc7ac09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c0f02b8b02e53babc1b12095f5af9a94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c0f02b8b02e53babc1b12095f5af9a94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\d19dc4c13ac3bd786f6ad134de0e88d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\d19dc4c13ac3bd786f6ad134de0e88d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\e7454ec12c56acdae1d6d6c9255637de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\e7454ec12c56acdae1d6d6c9255637de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\6fb02eeb0b4281dc3ee4af74add345e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\6fb02eeb0b4281dc3ee4af74add345e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\16ec9a144a95db65f82a1b7fefc1c7c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\16ec9a144a95db65f82a1b7fefc1c7c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\42ad6bb21fc5505ec1d92c88d8232e84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\42ad6bb21fc5505ec1d92c88d8232e84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\ca5adffb569880e7009b2f18f64a57cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\ca5adffb569880e7009b2f18f64a57cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\217434c3176b1ecfa7344345aed0aa33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\217434c3176b1ecfa7344345aed0aa33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\73009461331d1f72f14d503c875c0caa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\73009461331d1f72f14d503c875c0caa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\575beb2d71f81752fb3d4fc94c933fd3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\575beb2d71f81752fb3d4fc94c933fd3\AndroidManifest.xml:5:5-44
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidWorkspace\RabbitTopUp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:26:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:29:9-33:19
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:29:18-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\4de0b4eb90288084ef8f2ff260591faf\AndroidManifest.xml:31:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\674b87f1f89d45b85277022257e9a822\AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\a7d9ae80e688e54495af4b2e7dcbab10\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\a7d9ae80e688e54495af4b2e7dcbab10\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\a7d9ae80e688e54495af4b2e7dcbab10\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\a7d9ae80e688e54495af4b2e7dcbab10\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c36f8d9e652fc27c53918dcb42031027\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c36f8d9e652fc27c53918dcb42031027\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BenzRST\.gradle\caches\transforms-2\files-2.1\c36f8d9e652fc27c53918dcb42031027\AndroidManifest.xml:24:13-58
